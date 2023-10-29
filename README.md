@@ -4,13 +4,21 @@ This is a simple Single Page Application (SPA) that allows users to check the we
 
 Features
 City Search: Enter the name of a city to get the current weather information.
+
 Temperature in Celsius: Display the temperature in degrees Celsius.
+
 Weather Description: Show a brief description of the weather conditions (e.g., sunny, cloudy, rainy).
+
 Location-Based Data: Automatically fetch weather information for the user's current location (optional feature).
+
 Technologies Used
+
 HTML/CSS/JavaScript: The app is built using these core web technologies.
+
 OpenWeather API: Used to fetch weather data for the specified city.
+
 GitHub Pages: The project is hosted on GitHub Pages, making it easily accessible.
+
 =======
 # Getting Started with Create React App
 
